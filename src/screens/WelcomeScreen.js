@@ -5,12 +5,12 @@ import applogo from '../../assests/applogo.png';
 const WelcomeScreen = ({navigation}) => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome to App Name</Text>
+      <Text style={styles.title}>Welcome to Assessment Application</Text>
       <View style={styles.logo}>
         <Image source={applogo} style={styles.applogo} />
       </View>
       <View style={styles.hr80} />
-      <Text style={styles.text}>App Description</Text>
+      <Text style={styles.text}>Database Firebase </Text>
       <View style={styles.hr80} />
       <View style={styles.btnout}>
         <TouchableOpacity

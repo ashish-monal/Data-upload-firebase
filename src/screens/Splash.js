@@ -32,8 +32,8 @@ const Splash = ({navigation}) => {
           style={styles.activityIndicator}
         />
       </View>
-      <Text style={styles.text1}>Welcome to the Application Name</Text>
-      <Text style={styles.text2}>App Descriptions</Text>
+      <Text style={styles.text1}>Welcome to the Assessment Application</Text>
+      <Text style={styles.text2}>Data Upload DataBase</Text>
     </SafeAreaView>
   );
 };
