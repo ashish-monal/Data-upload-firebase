@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377316602305",
+    "project_id": "login-ashish",
+    "storage_bucket": "login-ashish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377316602305:android:387c14587d9c6e12e63f40",
+        "android_client_info": {
+          "package_name": "com.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377316602305-jgb587hl1anceg9ucf21nb5apmd2t6ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3J9FLsf3PAz1GSKLOEbwMzU-LmhMMRwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377316602305-f47fgkcku1i0saq2b5qaqptaae5k6dqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
